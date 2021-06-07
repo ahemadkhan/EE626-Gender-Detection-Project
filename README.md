@@ -14,7 +14,7 @@
 3. Then download the other files. If venv(fast download).zip is downloaded, no need to download the venv folder <br />
 
 4. Make sure the content are as follows :
-   - (4.82 KB) : .idea
+   - (04.82 KB) : .idea
    - (268.0 MB) : dataset
    - (01.57 GB) : venv
    - (02.00 KB) : detect_gender_webcam.py
