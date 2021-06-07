@@ -1,12 +1,12 @@
 # EE626-Gender-Detection-Project
 
-Done by Group 20:
-180122002 Abhishek Saharia
-180107004 Ahemad Khan
-180107052 Sanjib Medhi
-180108056 Bhaswat Raj
+**Done by Group 20 :**
+- 180122002 Abhishek Saharia <br />
+- 180107004 Ahemad Khan <br />
+- 180107052 Sanjib Medhi <br />
+- 180108056 Bhaswat Raj <br />
  
-############################### Download instructions #############################
+**Download instructions**
 1. Download dataset.zip from the folder in the given drive link and extract in the project directory
 
 2. venv folder is needed to run the project. If it takes long to download then download the 
