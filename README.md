@@ -16,16 +16,16 @@ Done by Group 20:
      the venv folder
 
 4. Make sure the content are as follows:
-   .idea                                                         (folder 4.82KB)
-   dataset                                                       (folder 268 MB)  
-   venv                                                          (folder 1.57GB)
-   detect_gender_webcam.py                                       (file 2 KB)
-   gender_detection.h5                                           (file 11MB)
-   gputest.py                                                    (file 1 KB)
-   GUI.py                                                        (file 1 KB)
-   haarcascade_frontalface_default.xml                           (file 1 MB)
-   readme.docx                                                   (file 13KB)
-   train.py                                                      (file 3 KB)
+   -.idea                                                         (folder 4.82KB)
+   -dataset                                                       (folder 268 MB)  
+   -venv                                                          (folder 1.57GB)
+   -detect_gender_webcam.py                                       (file 2 KB)
+   -gender_detection.h5                                           (file 11MB)
+   -gputest.py                                                    (file 1 KB)
+   -GUI.py                                                        (file 1 KB)
+   -haarcascade_frontalface_default.xml                           (file 1 MB)
+   -readme.docx                                                   (file 13KB)
+   -train.py                                                      (file 3 KB)
  
 4. Run the project as shown in the demo video
 ################################## Thank You ####################################
