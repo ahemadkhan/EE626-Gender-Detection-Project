@@ -14,16 +14,16 @@
 3. Then download the other files. If venv(fast download).zip is downloaded, no need to download the venv folder <br />
 
 4. Make sure the content are as follows :
-   - (folder 004.82 KB) : .idea
-   - (folder 268.00 MB) : dataset
-   - (folder 001.57 GB) : venv
-   - ( file 0002.00 KB ) : detect_gender_webcam.py
-   - gender_detection.h5                                           (file 11MB)     <br />
-   - gputest.py                                                    (file 1 KB)     <br />
-   - GUI.py                                                        (file 1 KB)     <br />
-   - haarcascade_frontalface_default.xml                           (file 1 MB)     <br />
-   - readme.docx                                                   (file 13KB)     <br />
-   - train.py                                                      (file 3 KB)     <br />
+   - (4.82 KB) : .idea
+   - (268.0 MB) : dataset
+   - (01.57 GB) : venv
+   - (02.00 KB) : detect_gender_webcam.py
+   - (11.0 MB) : gender_detection.h5                                           
+   - (01.0 KB) : gputest.py                                                    
+   - (01.0 KB) : GUI.py                                                       
+   - (01.0 MB) : haarcascade_frontalface_default.xml 
+   - (13.0 KB) : readme.docx                                               
+   - (03.0 KB) : train.py    
  
 4. Run the project as shown in the demo video
 
